@@ -1,10 +1,10 @@
-**Project Overview
+<strong>Project Overview</strong>
 **
 This project is a modern, responsive web application built with a focus on clean UI/UX, performance, and scalability. It follows best practices in frontend and full-stack development, using a component-based architecture and optimized workflows to ensure maintainability and fast load times.
 
 The goal of this project is to deliver a user-friendly, high-performance digital experience while maintaining clean, readable, and reusable code.
 
-**Key Features
+<strong>Key Features</strong>
 **
 Responsive and mobile-first design
 
@@ -16,7 +16,7 @@ Scalable and maintainable code structure
 
 Cross-browser compatibility
 
-**Tech Stack
+<strong>Tech Stack</strong>
 **
 Frontend: React.js / Next.js, Tailwind CSS, Gsap , Framer motion
 
