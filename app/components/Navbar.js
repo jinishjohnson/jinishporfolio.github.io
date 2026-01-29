@@ -67,7 +67,7 @@ const Navbar = () => {
                 animate={{ y: hidden ? "-100%" : "0%", opacity: 1 }}
                 transition={{ duration: 0.6 }}
                 initial={{ y: -100, opacity: 0 }}
-                className='w-full h-20 bg-transparent backdrop-blur-xl sm:hidden  sticky top-0 z-100'
+                className='w-full h-20 bg-transparent backdrop-blur-xl sticky top-0 z-[100]'
             >
                 <div className="max-w-7xl mx-auto flex justify-between items-center px-4 sm:px-6 lg:px-8">
                     <div className="flex items-center justify-between w-full mt-4">
